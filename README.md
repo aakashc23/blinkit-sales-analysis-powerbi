@@ -4,10 +4,6 @@ Welcome to the Blinkit Data Analysis project! This is a **real-world Business In
 
 ---
 
-## 📄 Full Dashboard
-
-👉 [View Dashboard PDF](Blinkit Dashboard.pdf)
-
 ## 📌 Objective
 
 The primary objective of this project is to analyze Blinkit's sales data to identify:
